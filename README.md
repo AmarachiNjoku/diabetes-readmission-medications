@@ -42,7 +42,7 @@ jupyter notebook Diabetes_Readmission_by_Medications.ipynb
 - Encounters with a medication change during the stay had a higher readmission rate (**11.8%**) than those without (**10.6%**).
 - Chi-square tests are included to check whether these gaps are larger than chance.
 
-![Readmission rate by insulin and metformin status](figures/insulin_metformin_readmission.png)
+![Readmission rate by insulin and metformin status](insulin_metformin_readmission.png)
 
 ## Limitations
 
